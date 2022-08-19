@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="#" target="_blank">Brian.tech</a>
+  <a href="https://github.com/Bria222/react-portfolio" target="_blank">Brian.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/r" />
+  <img alt="Demo" src="./Images/Capture.png" />
 </div>
 
 <br/>
