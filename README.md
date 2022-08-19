@@ -6,6 +6,10 @@
   <img alt="Demo" src="./Images/Capture.PNG" />
 </div>
 
+<div align="center">
+  <img alt="projects list" src="./Images/works.PNG" />
+</div>
+
 <br/>
 
 <center>
